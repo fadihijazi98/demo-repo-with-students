@@ -1,3 +1,3 @@
 <?php
 
-echo "this is remotly file created";
+echo "this is remotely file created";
