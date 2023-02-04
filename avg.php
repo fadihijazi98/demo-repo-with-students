@@ -3,7 +3,9 @@
 $marks = [
     90,
     80,
-    85
+    85,
+    95,
+    55
 ];
 
 $sum = 0;
@@ -14,4 +16,4 @@ foreach ($marks as $mark)
     $sum += $mark;
 }
 
-$avg = $sum / 3;
+$avg = $sum / sizeof($marks);
