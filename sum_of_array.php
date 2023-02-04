@@ -6,11 +6,11 @@ $nums = [
     25
 ];
 
-$result = 0;
+$sum = 0;
 
 foreach ($nums as $num)
 {
-    $result += $num;
+    $sum += $num;
 }
 
-echo $result;
+echo $sum;
