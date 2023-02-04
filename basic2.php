@@ -1,3 +1,3 @@
 <?php
 
-$is_in_develop_mode = false;
+$is_in_develop_mode = true;
